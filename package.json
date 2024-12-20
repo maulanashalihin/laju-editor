@@ -1,5 +1,5 @@
 {
-  "name": "@your-username/svelte-wysiwyg-editor",
+  "name": "laju-editor",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
